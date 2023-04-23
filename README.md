@@ -1,6 +1,4 @@
-# #� �I�m�a�g�e�_�U�p�l�o�a�d�e�r�
-�
-�
+
 A person can maitain a list of its customers with their image, name and other data.
 CRUD operations and additional features.
 Responsive design with a dynamic header and preloader
