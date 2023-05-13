@@ -3,7 +3,8 @@ Members of team are Deepanshu Jha
                     Dhruv Bhargav
                     Divyank Singh Rajput
                     
-Submitted to : Mr Upendra Singh
+Submitted to : Dr Lalit Purohit
+               Mr Upendra Singh
                     
 A person can maitain a list of its customers with their image, name and other data.
 CRUD operations and additional features.
